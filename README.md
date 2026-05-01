@@ -1,4 +1,4 @@
-# 🌊 Flood Prediction App
+# Kaggle Playground Series S4E5 - 🌊 Flood Prediction App
 
 Bu proje, Kaggle Playground Series S4E5 veri seti kullanılarak geliştirilmiş bir sel riski tahmin uygulamasıdır. 
 Kullanıcıların çevresel ve altyapısal faktörleri girerek anlık risk analizi yapmalarına olanak sağlar.
